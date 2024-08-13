@@ -1,6 +1,7 @@
 function home() {
-    return <h1>Treinamento git, frase alterada para treinamento.
-        Adicionada mais uma linha
+    return <h1>Rosieli, bora ter um gato? <br />
+    obs: Ainda não aprendi a colocar botões,
+    então responda mentalmente
     </h1>
 }
 
